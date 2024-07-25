@@ -1,14 +1,15 @@
 # census-data-conflation
 
-This project utilized five publicly available datasets to conduct a comprehensive analysis on EV ownership. Specifically, the datasets were EValuateNY, Smart Location Database (SLD), Alternative Fuels Data Center (AFDC), American Community Survey (ACS), and Center for Neighborhood Technology (CNT).
+This project utilized five publicly available datasets to conduct a comprehensive analysis on EV ownership. Specifically, the datasets were EValuateNY, Smart Location Database (SLD), Alternative Fuels Data Center (AFDC), American Community Survey (ACS), and Center for Neighborhood Technology (CNT). The application area is New York State.
 
 ![image](https://github.com/user-attachments/assets/1b3d8421-749e-4646-9aca-e181c36f3a4b)
 
 
 ![image](https://github.com/user-attachments/assets/d138bb6c-ad7b-4e8b-b3d8-8a7a1aa0c6c8)
 
-This is the code for paper
+The code contains the data conflation (tract-ZCTA5) and data fusion processes for the five datasets and spatial models for the paper "Understanding electric vehicle ownership using data fusion and spatial modeling."
 
+Citation:
 Meiyu (Melrose) Pan, Majbah Uddin, Hyeonsup Lim,
 Understanding electric vehicle ownership using data fusion and spatial modeling,
 Transportation Research Part D: Transport and Environment,
