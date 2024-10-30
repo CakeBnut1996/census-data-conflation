@@ -19,5 +19,6 @@ Volume 127,
 ISSN 1361-9209,
 https://doi.org/10.1016/j.trd.2024.104075.
 (https://www.sciencedirect.com/science/article/pii/S1361920924000324)
+
 Abstract: The global shift toward electric vehicles (EVs) for climate sustainability lacks comprehensive insights into the impact of the built environment on EV ownership, especially in varying spatial contexts. This study, focusing on New York State, integrates data fusion techniques across diverse datasets to examine the influence of socioeconomic and built environmental factors on EV ownership. The utilization of spatial regression models reveals consistent coefficient values, highlighting the robustness of the results, with the Spatial Lag model better at capturing spatial autocorrelation. Results underscore the significance of charging stations within a 10-mile radius, indicative of a preference for convenient charging options influencing EV ownership decisions. Factors like higher education levels, lower rental populations, and concentrations of older population align with increased EV ownership. Utilizing publicly available data offers a more accessible avenue for understanding EV ownership across regions, complementing traditional survey approaches.
 Keywords: Electric vehicle; Built environment; Charging stations; Spatial Regression; Public data; Data fusion
